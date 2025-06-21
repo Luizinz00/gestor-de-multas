@@ -1,0 +1,19 @@
+{
+  "name": "gestor_multas",
+  "version": "1.0.0",
+  "description": "Projeto pessoal para gerenciamento de multas de veículos por placa",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "Luís Henrique Lindoso",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "mysql2": "^3.14.1",
+    "nodemon": "^3.1.10"
+  }
+}
