@@ -38,7 +38,7 @@ Desenvolvido com **Node.js (Express)**, **MySQL** e um **frontend HTML + Bootstr
 
 ```bash
 git clone https://github.com/Luizinz00/gestor-de-multas
-cd gestor_multas
+cd gestor-de-multas
 ```
 
 ---
